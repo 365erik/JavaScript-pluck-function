@@ -1,0 +1,31 @@
+[
+   {
+      "title": "Invasion of the Body Snatchers",
+      "releaseDate": 1978,
+      "mpar": "R",
+      "rating": 5,
+      "comments": "This is my favorite!"
+   },
+   {
+      "title": "Invasion of the Body Snatchers",
+      "releaseDate": 1956,
+      "comments": "This a good film, but doesn't have Jeff Goldblum, Leonard Nimoy, or even Donald Sutherland in it."
+   },
+   {
+      "title": "The Invasion",
+      "releaseDate": 2007,
+      "rating": 3,
+      "comments": "Not my favorite, but it was watchable."
+   },
+   {
+      "title": "Attack the Block",
+      "releaseDate": 2010,
+      "rating": 4.5,
+      "comments": "A fun movie, innit."
+   },
+   {
+      "title": "Ubik",
+      "comments": "It's just as well; they probably would have ruined it anyway.",
+      "mpar": null
+   }
+]
