@@ -9,6 +9,7 @@ const pluck = (list, key) =>
 
 - https://replit.com/@365Erik/JavaScript-pluck-function#pluck.js
 - https://dev.to/365erik/pluck-func-in-javascript-with-reduce-2od5
+- https://github.com/365erik/JavaScript-pluck-function
 
 ## Usage
 Provide an array (`list`) of objects and a property name (`key`) to pluck, and the function will return a list of all values found in `list[n*][key]`.  
